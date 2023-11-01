@@ -1,0 +1,32 @@
+{
+  "name": "goodspinenovo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.25.3",
+    "nuxt": "^2.15.8",
+    "nuxt-swiper": "^1.2.2",
+    "swiper": "^11.0.3",
+    "vue": "^2.7.10",
+    "vue-awesome-swiper": "^5.0.1",
+    "vue-js-modal": "^2.0.1",
+    "vue-mobile-detection": "^2.0.1",
+    "vue-server-renderer": "^2.7.10",
+    "vue-smooth-scroll": "^1.0.13",
+    "vue-template-compiler": "^2.7.10"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^5.3.3",
+    "postcss": "^8.4.17",
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0",
+    "sass": "^1.69.5",
+    "sass-loader": "10"
+  }
+}
